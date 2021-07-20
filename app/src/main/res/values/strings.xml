@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Store</string>
+    <string name="login_text">Iniciar Sesion</string>
+    <string name="login_msg">¿No estás registrado? Presione abajo</string>
+    <string name="registro">Registrarse</string>
+    <string name="user">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="name">Nombres</string>
+    <string name="email">Email</string>
+    <string name="registrarme">Registrarme</string>
+    <string name="volver">Volver</string>
+    <string name="delantales">Delantales</string>
+    <string name="manteleria">Manteleria</string>
+    <string name="individual">Individual</string>
+    <string name="tapiceria">Tapiceria Silla</string>
+    <string name="acerca">Acerca De</string>
+    <string name="contacto">Contacto</string>
+    <string name="agregar_al_carrito">Agregar al Carrito</string>
+    <string name="action_carrito">Carrito</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
